@@ -2,7 +2,7 @@
 
 Multi-account Roblox manager and auto-rejoiner — store, organise, and launch dozens of accounts in parallel, then automatically grind a target item across your alts until everyone has it.
 
-[![Download](https://img.shields.io/badge/download-latest-success?style=for-the-badge&logo=windows)](https://github.com/YungTedo/RobloxManager-Downloads/releases/latest/download/Roblox%20Manager.exe)
+[![Download](https://img.shields.io/badge/download-latest-success?style=for-the-badge&logo=windows)](https://github.com/YungTedo/RobloxManager-Downloads/releases/latest/download/RobloxManager.exe)
 [![Latest release](https://img.shields.io/github/v/release/YungTedo/RobloxManager-Downloads?style=for-the-badge)](https://github.com/YungTedo/RobloxManager-Downloads/releases/latest)
 
 ---
@@ -32,7 +32,7 @@ Multi-account Roblox manager and auto-rejoiner — store, organise, and launch d
 
 ## Download
 
-[**Click here to download `Roblox Manager.exe`**](https://github.com/YungTedo/RobloxManager-Downloads/releases/latest/download/Roblox%20Manager.exe)
+[**Click here to download `RobloxManager.exe`**](https://github.com/YungTedo/RobloxManager-Downloads/releases/latest/download/RobloxManager.exe)
 
 The link always points at the most recent release.
 
@@ -46,7 +46,7 @@ No installer — it's a single executable. Put it anywhere and double-click.
 
 ## First-launch setup
 
-1. **Run `Roblox Manager.exe`.** No prompt — you go straight into the Account Manager.
+1. **Run `RobloxManager.exe`.** No prompt — you go straight into the Account Manager.
 2. **Add your accounts.** Click `+ Account/s` (top-left of the account list):
    - **Add account…** — single-account form. Cookie OR username + password, plus optional alias / tag / notes.
    - **Add via user:pass…** — paste many `username:password` pairs, one per line. A browser opens for each (you solve any CAPTCHA + click Log In; cookie captured automatically).
